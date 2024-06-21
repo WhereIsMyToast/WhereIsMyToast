@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning by my own **Rust, and desktop app development with tauri**
 
-- 📖 I’m currently studying in U-Tad
+- 📖 I’m currently studying software engineering in U-Tad
 
 - 👨‍💻 All of my projects are available at [https://github.com/WhereIsMyToast](https://github.com/WhereIsMyToast)
 
