@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Juanjo García</h1>
 <h3 align="center">A Mainly backend developer from spain, currently studing software engeniering</h3>
 
-- 🌱 I’m currently learning **Rust, and desktop app development with tauri, and C++**
+- 🌱 I’m currently learning by my own **Rust, and desktop app development with tauri**
+
+- 📖 I’m currently studying in U-Tad
 
 - 👨‍💻 All of my projects are available at [https://github.com/WhereIsMyToast](https://github.com/WhereIsMyToast)
 
